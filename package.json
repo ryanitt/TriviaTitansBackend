@@ -1,0 +1,24 @@
+{
+  "name": "triviatitansbackend",
+  "version": "1.0.0",
+  "description": "The backend support for the Trivia Titans game including sockets and server side infrastructure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanitt/TriviaTitansBackend.git"
+  },
+  "keywords": [
+    "expressjs",
+    "socketio",
+    "sockets"
+  ],
+  "author": "Ryan Ittyipe, Andy Eom, Steven Ha, Vanessa Chen, Vincent Zheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanitt/TriviaTitansBackend/issues"
+  },
+  "homepage": "https://github.com/ryanitt/TriviaTitansBackend#readme"
+}
